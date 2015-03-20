@@ -1,0 +1,82 @@
+The tree will be printed with the left 
+most node on the left for each level
+
+Adding 67:
+67
+
+Adding 88:
+67
+88 
+
+Adding 77:
+67
+88 77 
+
+
+Adding 52:
+52
+67 77 
+88 
+
+Adding 44:
+44
+52 77 
+88 67 
+
+
+Adding 11:
+11
+52 44 
+88 67 77 
+
+
+Adding 66:
+11
+52 44 
+88 67 77 66 
+
+
+Adding 93:
+11
+52 44 
+88 67 77 66 
+93 
+
+removing root:
+44
+52 66 
+88 67 77 93 
+
+
+removing root:
+52
+67 66 
+88 93 77 
+
+
+removing root:
+66
+67 77 
+88 93 
+
+
+removing root:
+67
+88 77 
+93 
+
+removing root:
+77
+88 93 
+
+
+removing root:
+88
+93 
+
+removing root:
+93
+
+removing root:
+Heap is empty
+0

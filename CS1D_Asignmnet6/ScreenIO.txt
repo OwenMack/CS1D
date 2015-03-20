@@ -1,0 +1,22 @@
+My Priority Queue:
+Frank Feelingbad is being treated at 12
+Cathy Coughing is being treated at 12.5
+Sam Sneezing is being treated at 13
+Paula Pain is being treated at 13.5
+Sid Sicky is being treated at 14
+Tom Temperature is being treated at 14.5
+Alice Ailment is being treated at 15
+Bob Bleeding is being treated at 15.5
+Irene Ill is being treated at 16
+
+
+Priority Queue STL:
+Frank Feelingbad is being treated at 12
+Same Sneezing is being treated at 12.5
+Cathy Coughing is being treated at 13
+Paula Pain is being treated at 13.5
+Sid Sicky is being treated at 14
+Tom Temperature is being treated at 14.5
+Alice Ailment is being treated at 15
+Bob Bleeding is being treated at 15.5
+Irene Ill is being treated at 16
